@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Cleilton-Santos
-- 👀 I’m interested in Mobile development and Web development.
-- 🌱 I’m currently learning English.
-- 💞️ I'm looking to collaborate in Web and Mobile Development.
-- 📫 How to reach me, Instagram:@cleilton.santos.50, LinkedIn:Cleilton-Santos
+### 👋 Hi, I’m Cleilton-Santos
+ - 👀 I’m interested in Mobile development and Web development.
+ - 🌱 I’m currently learning English.
+ - 💞️ I'm looking to collaborate in Web and Mobile Development.
+ - 📫 How to reach me 👇
 
 <div style="display: inline-block">
   <a href="https://www.linkedin.com/in/cleilton-santos-441373155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
